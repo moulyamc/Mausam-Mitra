@@ -36,3 +36,4 @@ The app features a clean, responsive interface that works smoothly across device
    ```bash
    http://localhost:5000
    ```
+If this is a frontend-only project, simply open the index.html file in your browser.
