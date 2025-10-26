@@ -1,7 +1,7 @@
 import requests
 from dataclasses import dataclass
 
-API_Key = 'e28b4ac1714ca57754ecf7195fec4898'
+API_Key = 'paste here'
 
 @dataclass
 class WeatherInfo:
