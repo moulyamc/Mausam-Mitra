@@ -4,8 +4,6 @@
 
 The app features a clean, responsive interface that works smoothly across devices and browsers.
 
----
-
 ## 🚀 Features
 
 - 🌍 Real-time weather updates for any location  
@@ -14,15 +12,11 @@ The app features a clean, responsive interface that works smoothly across device
 - 📱 Fully responsive design for mobile and desktop  
 - ☁️ API integration with [OpenWeatherMap](https://openweathermap.org/api)
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript  
 **Backend:** Flask (Python) *(if applicable)*  
 **API:** OpenWeatherMap API  
-
----
 
 ## ⚙️ How to Run Locally
 
@@ -42,11 +36,3 @@ The app features a clean, responsive interface that works smoothly across device
    ```bash
    http://localhost:5000
    ```
-
-
-
-
-
-
-
-
